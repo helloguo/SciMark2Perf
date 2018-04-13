@@ -1,1 +1,40 @@
-The code is built with dotnet --version 2.1.104 with release flag
+The code is built with dotnet --version 2.0.3 with release flag
+
+dotnet SciMarkCShap.dll
+**                                                               **
+** SciMark2 Numeric Benchmark, see http://math.nist.gov/scimark **
+**                                                               **
+Mininum running time = 2 seconds
+
+Composite Score: 1551.21 MFlops
+FFT            : 1804.72 - (1024)
+SOR            : 1371.11 - (100x100)
+Monte Carlo    :  261.62
+Sparse MatMult : 1962.79 - (N=1000, nz=5000)
+LU             : 2355.83 - (100x100)
+
+dotnet SciMarkCShap.dll
+**                                                               **
+** SciMark2 Numeric Benchmark, see http://math.nist.gov/scimark **
+**                                                               **
+Mininum running time = 2 seconds
+
+Composite Score: 1547.83 MFlops
+FFT            : 1824.76 - (1024)
+SOR            : 1363.57 - (100x100)
+Monte Carlo    :  262.02
+Sparse MatMult : 1940.02 - (N=1000, nz=5000)
+LU             : 2348.76 - (100x100)
+
+dotnet SciMarkCShap.dll
+**                                                               **
+** SciMark2 Numeric Benchmark, see http://math.nist.gov/scimark **
+**                                                               **
+Mininum running time = 2 seconds
+
+Composite Score: 1550.08 MFlops
+FFT            : 1806.35 - (1024)
+SOR            : 1367.66 - (100x100)
+Monte Carlo    :  261.66
+Sparse MatMult : 1966.71 - (N=1000, nz=5000)
+LU             : 2348.03 - (100x100)

@@ -1,0 +1,10 @@
+C:\Users\guo\work\helloguo\public\SciMark2Perf\csharp\bin\Release\netcoreapp2.0\SciMarkCShap.deps.json
+C:\Users\guo\work\helloguo\public\SciMark2Perf\csharp\bin\Release\netcoreapp2.0\SciMarkCShap.runtimeconfig.json
+C:\Users\guo\work\helloguo\public\SciMark2Perf\csharp\bin\Release\netcoreapp2.0\SciMarkCShap.runtimeconfig.dev.json
+C:\Users\guo\work\helloguo\public\SciMark2Perf\csharp\bin\Release\netcoreapp2.0\SciMarkCShap.dll
+C:\Users\guo\work\helloguo\public\SciMark2Perf\csharp\bin\Release\netcoreapp2.0\SciMarkCShap.pdb
+C:\Users\guo\work\helloguo\public\SciMark2Perf\csharp\obj\Release\netcoreapp2.0\SciMarkCShap.csproj.CoreCompileInputs.cache
+C:\Users\guo\work\helloguo\public\SciMark2Perf\csharp\obj\Release\netcoreapp2.0\SciMarkCShap.AssemblyInfoInputs.cache
+C:\Users\guo\work\helloguo\public\SciMark2Perf\csharp\obj\Release\netcoreapp2.0\SciMarkCShap.AssemblyInfo.cs
+C:\Users\guo\work\helloguo\public\SciMark2Perf\csharp\obj\Release\netcoreapp2.0\SciMarkCShap.dll
+C:\Users\guo\work\helloguo\public\SciMark2Perf\csharp\obj\Release\netcoreapp2.0\SciMarkCShap.pdb

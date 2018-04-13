@@ -1,2 +1,41 @@
 The code is built with Visual Studio Community 2017 Version 15.5.1
 Default Release x64 compilation flag
+
+SciMarkCpp.exe
+**                                                              **
+** SciMark2 Numeric Benchmark, see http://math.nist.gov/scimark **
+** for details. (Results can be submitted to pozo@nist.gov)     **
+**                                                              **
+Using       2.00 seconds min time per kenel.
+Composite Score:         3053.06
+FFT             Mflops:  2477.61    (N=1024)
+SOR             Mflops:  1728.99    (100 x 100)
+MonteCarlo:     Mflops:  1443.69
+Sparse matmult  Mflops:  3391.25    (N=1000, nz=5000)
+LU              Mflops:  6223.74    (M=100, N=100)
+
+SciMarkCpp.exe
+**                                                              **
+** SciMark2 Numeric Benchmark, see http://math.nist.gov/scimark **
+** for details. (Results can be submitted to pozo@nist.gov)     **
+**                                                              **
+Using       2.00 seconds min time per kenel.
+Composite Score:         3032.42
+FFT             Mflops:  2504.29    (N=1024)
+SOR             Mflops:  1714.37    (100 x 100)
+MonteCarlo:     Mflops:  1445.14
+Sparse matmult  Mflops:  3370.54    (N=1000, nz=5000)
+LU              Mflops:  6127.72    (M=100, N=100)
+
+SciMarkCpp.exe
+**                                                              **
+** SciMark2 Numeric Benchmark, see http://math.nist.gov/scimark **
+** for details. (Results can be submitted to pozo@nist.gov)     **
+**                                                              **
+Using       2.00 seconds min time per kenel.
+Composite Score:         3045.51
+FFT             Mflops:  2481.14    (N=1024)
+SOR             Mflops:  1725.12    (100 x 100)
+MonteCarlo:     Mflops:  1450.51
+Sparse matmult  Mflops:  3377.06    (N=1000, nz=5000)
+LU              Mflops:  6193.74    (M=100, N=100)

@@ -1,0 +1,40 @@
+run with container
+
+docker run --rm dotnetapp-dev
+**                                                               **
+** SciMark2 Numeric Benchmark, see http://math.nist.gov/scimark **
+**                                                               **
+Mininum running time = 2 seconds
+
+Composite Score: 1492.47 MFlops
+FFT            : 1599.44 - (1024)
+SOR            : 1406.82 - (100x100)
+Monte Carlo    :  267.93
+Sparse MatMult : 1794.20 - (N=1000, nz=5000)
+LU             : 2393.95 - (100x100)
+
+docker run --rm dotnetapp-dev
+**                                                               **
+** SciMark2 Numeric Benchmark, see http://math.nist.gov/scimark **
+**                                                               **
+Mininum running time = 2 seconds
+
+Composite Score: 1447.46 MFlops
+FFT            : 1550.49 - (1024)
+SOR            : 1362.06 - (100x100)
+Monte Carlo    :  255.79
+Sparse MatMult : 1737.46 - (N=1000, nz=5000)
+LU             : 2331.50 - (100x100)
+
+docker run --rm dotnetapp-dev
+**                                                               **
+** SciMark2 Numeric Benchmark, see http://math.nist.gov/scimark **
+**                                                               **
+Mininum running time = 2 seconds
+
+Composite Score: 1468.10 MFlops
+FFT            : 1573.75 - (1024)
+SOR            : 1382.57 - (100x100)
+Monte Carlo    :  262.39
+Sparse MatMult : 1764.18 - (N=1000, nz=5000)
+LU             : 2357.61 - (100x100)
